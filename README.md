@@ -6,7 +6,7 @@ The current version uses synthetic data, so the system can be tested without phy
 
 ## Demo
 
-**[ project demo →](http://irrigation-dashboard-aarsh.s3-website-us-east-1.amazonaws.com/)**
+**[ project demo →](http://irrigation-dashboard-aarsh.s3-website-us-east-1.amazonaws.com/](https://aarshmalik35-afk.github.io/irrigation-project-frontend/))**
 
 ## What it does
 
