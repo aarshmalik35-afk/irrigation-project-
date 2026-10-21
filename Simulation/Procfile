@@ -1,0 +1,6 @@
+commands:
+  01_enable_spal:
+    command: "dnf install -y spal-release"
+
+  02_install_tesseract:
+    command: "dnf install -y tesseract"
