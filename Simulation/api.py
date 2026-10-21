@@ -23,12 +23,12 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://irrigation-dashboard-aarsh.s3-website-us-east-1.amazonaws.com",
+        "https://aarshmalik35-afk.github.io",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 class FertilizerRequest(BaseModel):
     fertilizer: str
